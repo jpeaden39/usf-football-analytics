@@ -184,7 +184,7 @@ This project taught me the importance of:
 ## 🤖 Role of AI in This Project
 
 ### Claude as Learning Partner
-Unlike previous projects where I struggled alone, **I used Claude AI as a real-time mentor** throughout this build. This was transformative:
+Unlike previous projects where I struggled alone or with inadeqaute AI help, **I used Claude AI as a real-time mentor** throughout this build. This was transformative:
 
 **What Worked:**
 - **Learning while building**: Instead of tutorials, I built a real project and asked questions when stuck
@@ -193,7 +193,7 @@ Unlike previous projects where I struggled alone, **I used Claude AI as a real-t
 - **Architectural guidance**: Understood WHY certain AWS services work together
 
 **Key Difference from Past Projects:**
-- **Previous attempts**: Watched tutorials → got stuck → abandoned project
+- **Previous attempts**: Watched tutorials → got stuck with countless errors → abandoned project
 - **This project**: Built something real → hit problems → solved them with AI guidance → kept momentum
 
 **Example**: When Lambda recursive loop occurred, Claude helped me:
@@ -376,9 +376,9 @@ I would:
 ## 📞 Contact
 
 **James**  
-- GitHub: [Your GitHub]
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- GitHub: jpeaden39
+- LinkedIn:James Peaden
+- Email: jimpeaden39@gmail.com
 
 ---
 
@@ -402,9 +402,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Lines of Code**: ~400 (Python Lambda functions)
 - **AWS Services Used**: 6 (Lambda, S3, Athena, QuickSight, EventBridge, SNS)
 - **Data Points**: 60+ (6 seasons × 10+ metrics)
-- **Development Time**: 2 weeks
+- **Development Time**: 8 weeks
 - **Cost**: < $5/month (staying within AWS Free Tier)
 
 ---
 
-**Built with ☕ and determination by a data engineering student who refused to give up**
